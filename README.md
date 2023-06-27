@@ -1,4 +1,4 @@
-[![MasterHead]( https://joanmediaarts.weebly.com/uploads/3/5/0/5/3505548/_4297657_orig.gif)]
+![MasterHead]( https://joanmediaarts.weebly.com/uploads/3/5/0/5/3505548/_4297657_orig.gif)
  <h1 align="center">Hi 👋, I'm Alanki Megasuriya</h1>
 <h3 align="center">Undergraduate | University of Moratuwa | BSc. Honours in Information Technology | Editorial Lead IEEESBUOM</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966 ">
