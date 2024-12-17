@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alankimegasuriya](https://medium.com/@alankimegasuriya)
 
-- 📫 How to reach me **alankimegasuriya@gmail.com**
+- 📫 How to reach me **alankimegasuriya214@gmail.com**
 
 
 
