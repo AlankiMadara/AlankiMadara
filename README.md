@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alankimadara&label=Profile%20views&color=0e75b6&style=flat" alt="alankimadara" /> </p>
 
-- 🌱 I’m currently learning **React Native , Spring Boot**
+- 🌱 I’m currently learning **Deep learning , Machine learning**
 
 - 📝 I regularly write articles on [https://medium.com/@alankimegasuriya](https://medium.com/@alankimegasuriya)
 
